@@ -1,0 +1,13 @@
+Môn học: Tính Toán Đa Phương Tiện - CS232
+Giảng Viên: Đỗ Văn Tiến
+
+
+Thành viên:
+
+19522446 - Trương Quốc Trường
+19522474 - Nguyễn Quang Tuấn
+19522050 - Âu Thiên Phước
+
+
+Link repos Github:
+https://github.com/quoctruong242/CRAWLER_CS232.git
