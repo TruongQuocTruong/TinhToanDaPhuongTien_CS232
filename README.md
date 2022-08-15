@@ -1,2 +1,2 @@
 # TinhToanDaPhuongTien_CS232
-Project môn học Tính Toán Đa Phương Tiện
+Các assignments và projects môn học Tính Toán Đa Phương Tiện
